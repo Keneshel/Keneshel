@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm **Kelvin**, a Computer Science student eager to learn new things! 🚀  
+
+> **"It's better to try and fail than to never try at all."**  
+
 <!--
 **Keneshel/Keneshel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
