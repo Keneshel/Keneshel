@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌱 About Me  
+- 🎓 Currently studying **Software Technology**
+- 💻 recently developed an interest in **Web Development**
+- 🔍 Looking for exciting projects to work on and improve my skills
+- 📚 Still learning a lot about coding
+- 🚀 Open to collaborating on beginner-friendly web projects 
